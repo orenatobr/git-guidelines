@@ -1,6 +1,6 @@
 # AGENTS.md
 
-This repo packages the `git-guidelines` agent skill, plus the `prs-fixes` and `prs-reviews` PR helper skills. Agent skill for branch names, Conventional Commits, PR titles and PR descriptions in EN-US.
+This repo packages the `git-guidelines` agent skill. Agent skill for branch names, Conventional Commits, PR titles and PR descriptions in EN-US.
 
 ## Layout
 
